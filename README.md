@@ -10,6 +10,8 @@ A simple and lightweight To-Do List web application built with **HTML**, **CSS**
 - Persistent data using localStorage
 - Responsive and mobile-friendly UI
 
+##screenshot
+![image](https://github.com/user-attachments/assets/812145cc-3a25-4587-babd-d6d77ce41a9a)
 
 ## 🛠️ Tech Stack
 
